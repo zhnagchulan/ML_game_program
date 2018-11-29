@@ -1,3 +1,3 @@
 # Game or program
-#### 一些demo
-#### 一些kaggle、天池比赛完整流程
+#### demo套路代码
+#### kaggle、天池比赛完整流程代码
