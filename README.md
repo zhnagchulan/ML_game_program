@@ -4,5 +4,5 @@
 * [XGBoost_demo代码](https://github.com/zhnagchulan/ML_game_program/blob/master/XGboost_demo.ipynb)
 * [lightGBM_demo代码](https://github.com/zhnagchulan/ML_game_program/blob/master/lightgbm_demo.ipynb)
 * 推荐系统：[电影推荐demo](https://github.com/zhnagchulan/ML_game_program/blob/master/movie_recommender_with_knnbaseline_demo.ipynb)、[音乐推荐demo代码](https://github.com/zhnagchulan/ML_game_program/blob/master/popular_music_surprise_demo.ipynb)
-* sklearn工具库使用：[分类_demo](https://github.com/zhnagchulan/ML_game_program/blob/master/sklearn_classification.ipynb)、[californian房价分布案例](https://github.com/zhnagchulan/ML_game_program/blob/master/californian_housing_districts.ipynb)
+* sklearn工具库使用：[分类_demo](https://github.com/zhnagchulan/ML_game_program/blob/master/sklearn_classification.ipynb)、[回归](https://github.com/zhnagchulan/ML_game_program/blob/master/sklearn_regression.ipynb)、[californian房价分布案例](https://github.com/zhnagchulan/ML_game_program/blob/master/californian_housing_districts.ipynb)
 #### kaggle、天池比赛完整流程代码
